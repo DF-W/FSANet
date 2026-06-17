@@ -25,7 +25,7 @@ TNS/
         └── file_list.txt/
 ```
 
-## Training
+## Method and Training
 The method and training code have been uploaded, and we will continue to optimize them.
 
 ## Prediction maps for all models can be found from [Google Drive](https://drive.google.com/file/d/1Jvbm1jpWOSxUFUhcGStxsKf0WTtqB3X4/view?usp=sharing)
